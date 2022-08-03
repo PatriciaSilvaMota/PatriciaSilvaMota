@@ -1,10 +1,6 @@
-- 👋 Olá, sou @PatriciaSilvaMota
+# Sobre mim
+-  👋 Olá, sou @PatriciaSilvaMota
 - 👀 Estou interessada em programação computacional
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-PatriciaSilvaMota/PatriciaSilvaMota is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- E3 Estou aprendendo programação
+- 💞️ Procuro colaborar com meus alunos e colegas de trabalho
+- 📫 Podem chegar ate mim por meio do email cleidineia.mota@escola.pr.gov.br 
